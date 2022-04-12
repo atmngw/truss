@@ -1,4 +1,4 @@
-module github.com/metaverse/truss
+module github.com/atmngw/truss
 
 go 1.13
 
