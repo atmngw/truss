@@ -10,8 +10,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/metaverse/truss/gengokit"
-	"github.com/metaverse/truss/gengokit/handlers/templates"
+	"github.com/atmngw/truss/gengokit"
+	"github.com/atmngw/truss/gengokit/handlers/templates"
 )
 
 const HookPath = "handlers/hooks.gotemplate"
